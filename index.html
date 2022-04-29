@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Team Tracker</title>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css'>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="bootstrap/js/bootstrap.min.js" rel="stylesheet" media="screen">
+    <link href="bootstrap/js/bootstrap-modal.js" rel="stylesheet" media="screen">
+    <link href="bootstrap/js/bootstrap-transition.js" rel="stylesheet" media="screen">
+</head>
+
+<body>
+    <!-- partial:index.partial.html -->
+    <header id="header">
+        <h1>Team Tracker</h1>
+        
+        <button id="header-icon" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+            <i class="fa-solid fa-info"></i>
+        </button>
+
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">Information</h5>
+                </div>
+
+                <div class="modal-body">
+                    <p>
+                        Team Tracker is the best way to check in on your favorite sports teams. Enter up to 10 teams from any of the leagues supported (NFL, NBA, NHL, MLB, MLS, and English Premier League).
+                        <br>
+                        Team Tracker is powered by SerpAPI on a limited search quota. SerpAPI pulls data from the Google search results page, so if the team entered is playing today or tomorrow, the application will display the team's upcoming game.
+                    </p>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+
+              </div>
+            </div>
+        </div>
+  
+    </header>
+    
+    <main id="main">
+        <datalist id="brow"></datalist>
+        <div id="insert-app"></div>
+    </main>
+
+    <footer id="sticky-footer" class="flex-shrink-0 py-4 text-white-50">
+        <div class="container text-center">
+            <small>Coded by Sean Carlson</small>
+        </div>
+    </footer>
+
+    <!-- partial -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/js/fontawesome-iconpicker.min.js'></script>
+    <script src="./script.js"></script>
+    <script>$(document).ready(function(){$('[data-bs-toggle="modal"]').modal();});</script>
+</body>
+
+</html>
