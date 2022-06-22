@@ -1,4 +1,4 @@
-# Team-Tracker
+# Team Tracker
 
 This application allows users to check in on their favorite sports teams.
 
