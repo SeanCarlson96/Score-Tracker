@@ -6,7 +6,7 @@ app.use(express.static(path.resolve(__dirname, '../client/build')));
 app.get("/api", (req, res) => {
     const teamEntered = req.query.q
     const SerpApi = require('google-search-results-nodejs');
-    const search = new SerpApi.GoogleSearch("91c5436ea5b5576335cf2cc35e27b5c23f03f1b8972220f1d0113f9bd7ce03bb");
+    const search = new SerpApi.GoogleSearch("private key here");
     const params = {
         q: teamEntered,
         location: "austin, texas, united states"
@@ -15,8 +15,6 @@ app.get("/api", (req, res) => {
         res.send(response['sports_results']);
     };
     search.json(params, callback);
-          
-          ///////////MongoDB create operation
           const { MongoClient } = require('mongodb');
           async function main() {
             const uri = process.env.MONGODB_URI;
@@ -38,9 +36,7 @@ app.get("/api", (req, res) => {
               await client.close();
             }
           }
-          main().catch(console.error);
-          ///////////
-          
+          main().catch(console.error);        
 });
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
