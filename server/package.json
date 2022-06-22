@@ -1,0 +1,29 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.3",
+    "google-search-results-nodejs": "^2.1.0",
+    "moment": "^2.29.3",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": "v16.14.1"
+  }
+}
