@@ -42,6 +42,7 @@ Site Features:
 * Automatically updated information upon refresh or revisit
 * MongoDB connection tracks which teams are searched and when
 * NFL, NBA, NHL, MLB, MLS, and English Premier League supported
+* Fully Responsive design
 
 
 ### Built With
@@ -61,7 +62,9 @@ Working as a Direct Support Professional helping people with developmental disab
 
 ## Screenshots
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<img src="README.screenshots/Screen Shot 2022-06-23 at 11.58.44 AM.png" alt="" height="200">
+<img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.57 AM.png" alt="" height="200">
+<img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.41 AM.png" alt="" height="200">
 
 <!-- CONTACT -->
 ## Contact
