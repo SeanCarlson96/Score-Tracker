@@ -12,7 +12,7 @@
   <p align="center">
     A responsive web application that allows users to check in on their favorite sports teams.
     <br />
-    <a href="https://teamtracker3000.herokuapp.com"><strong>Live Site »</strong></a>
+    <a href="https://teamtracker3000.herokuapp.com" target="_blank"><strong>Live Site »</strong></a>
     <br />
     <br />
   </p>
