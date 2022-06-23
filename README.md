@@ -1,18 +1,3 @@
-# Team Tracker
-
-## Description
-This application allows users to check in on their favorite sports teams.
-
-Team Tracker was built on the MERN Stack using MongoDB, Express, React, and Node
-
-## Video Demo
-
-## Screenshots
-
-## The Story
-
-Working as a Direct Support Professional helping people with developmental disabilities I met many amazing individuals. In the past 2 years I primarily worked with an individual who is a superfan of multiple sports teams. Each day when I would pick him up from his home, we searched the scores of all of his favorite teams on my phone. This person is obsessive over the exact scores and he will often ask me to check the scores multiple times in a day. I found myself repeatedly searching Google for the scores of the same handful of teams and this inspired me to create a project that could simplify this task.
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -34,7 +19,6 @@ Working as a Direct Support Professional helping people with developmental disab
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -45,7 +29,7 @@ Working as a Direct Support Professional helping people with developmental disab
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#thestory">The Story</a></li>
+    <li><a href="#story">The Story</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -57,6 +41,10 @@ Working as a Direct Support Professional helping people with developmental disab
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+This application allows users to check in on their favorite sports teams.
+
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -75,31 +63,23 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Team Tracker was built on the MERN Stack using MongoDB, Express, React, and Node
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
+* MongoDB
+* Express.js
+* React.js
+* Node.js
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## The Story
+## Story
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Working as a Direct Support Professional helping people with developmental disabilities I met many amazing individuals. In the past 2 years I primarily worked with an individual who is a superfan of multiple sports teams. Each day when I would pick him up from his home, we searched the scores of all of his favorite teams on my phone. This person is obsessive over the exact scores and he will often ask me to check the scores multiple times in a day. I found myself repeatedly searching Google for the scores of the same handful of teams and this inspired me to create a project that could simplify this task.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
 ## Screenshots
 
 - [x] Add Changelog
@@ -114,9 +94,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -125,7 +102,6 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
