@@ -30,9 +30,11 @@
 
 ## About The Project
 
-Team Tracker is a web application inspired by the desire to check in on multiple sports teams with a single click. The user is able to <strong>add up to 10 teams</strong> across multiple professional sports leagues (NFL, NBA, NHL, MLB, MLS, and English Premier League). Whether the team has recently finished a game, or is soon to play, each team's game information will be dsplayed on a card for the user to view.
+<img src="README.screenshots/Screen Shot 2022-06-23 at 11.57.46 AM.png" alt="">
 
-Team tracker makes use of <strong>LocalStorage</strong> to pre load the users teams of choice each time they visit the site. The user has the ability to remove and add teams to their liking so they always stay up to date regarding their favorite teams state of affairs. Team Tracker features a MongoDB connection that records every team searched, and at what time they are searched.
+Team Tracker is a web application inspired by the desire to check in on multiple sports teams with a single click. The user is able to add up to 10 teams across multiple professional sports leagues (NFL, NBA, NHL, MLB, MLS, and English Premier League). Whether the team has recently finished a game, or is soon to play, each team's game information will be dsplayed on a card for the user to view.
+
+Team tracker makes use of LocalStorage to pre load the users teams of choice each time they visit the site. The user has the ability to remove and add teams to their liking so they always stay up to date regarding their favorite teams state of affairs. Team Tracker features a MongoDB connection that records every team searched, and at what time they are searched.
 
 Site Features:
 * Track up to 10 teams simultaneously
