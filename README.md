@@ -1,7 +1,4 @@
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
 
   <h1 align="center">Team Tracker</h1>
@@ -15,9 +12,7 @@
   </p>
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -30,36 +25,32 @@
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
+</details>
 
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This application allows users to check in on their favorite sports teams.
+Team Tracker is a web application inspired by the desire to check in on multiple sports teams with a single click. The user is able to <strong>add up to 10 teams</strong> across multiple professional sports leagues (NFL, NBA, NHL, MLB, MLS, and English Premier League). Whether the team has recently finished a game, or is soon to play, each team's game information will be dsplayed on a card for the user to view.
 
+Team tracker makes use of <strong>LocalStorage</strong> to pre load the users teams of choice each time they visit the site. The user has the ability to remove and add teams to their liking so they always stay up to date regarding their favorite teams state of affairs. Team Tracker features a MongoDB connection that records every team searched, and at what time they are searched.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Site Features:
+* Track up to 10 teams simultaneously
+* Remove and Add teams freely
+* Automatically updated information upon refresh or revisit
+* MongoDB connection tracks which teams are searched and when
+* NFL, NBA, NHL, MLB, MLS, and English Premier League supported
 
 
 ### Built With
 
-Team Tracker was built on the MERN Stack using MongoDB, Express, React, and Node
-
+* MERN stack
 * MongoDB
 * Express.js
 * React.js
 * Node.js
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* SerpApi
+* Bootstrap
 
 
 ## Story
