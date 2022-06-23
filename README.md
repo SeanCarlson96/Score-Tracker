@@ -30,7 +30,7 @@
 
 ## About The Project
 
-<img src="README.screenshots/Screen Shot 2022-06-23 at 11.57.46 AM.png" alt="" width="500" height="600">
+<img src="README.screenshots/Screen Shot 2022-06-23 at 11.57.46 AM.png" alt="" width="auto" height="600">
 
 Team Tracker is a web application inspired by the desire to check in on multiple sports teams with a single click. The user is able to add up to 10 teams across multiple professional sports leagues (NFL, NBA, NHL, MLB, MLS, and English Premier League). Whether the team has recently finished a game, or is soon to play, each team's game information will be dsplayed on a card for the user to view.
 
