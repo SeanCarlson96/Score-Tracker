@@ -63,11 +63,8 @@ Working as a Direct Support Professional helping people with developmental disab
 
 ## Screenshots
 <img src="README.screenshots/InfoSS.png" alt="">
-<img src="README.screenshots/MobileViewSS.png" alt="" height="50%">
-<figure>
-    <img src="README.screenshots/DropdownSS.png" alt="" height="50%">
-    <figcaption>Dropdown menu available for autocomplete</figcaption>
-</figure>
+<img src="README.screenshots/MobileViewSS.png" alt="" height="300">
+<img src="README.screenshots/DropdownSS.png" alt="" height="300">
 <img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.57 AM.png" alt="">
 <img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.41 AM.png" alt="">
 <img src="README.screenshots/Screen Shot 2022-06-23 at 11.58.44 AM.png" alt="">
