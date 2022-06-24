@@ -7,7 +7,7 @@
     A responsive web application that allows users to check in on their favorite sports teams.
     <br />
     <a href="https://teamtracker3000.herokuapp.com" target="_blank"><strong>Live Site »</strong></a><br />
-    <a href="https://youtu.be/bNytZFxByA8" target="_blank"><strong>Demo Video »</strong></a>
+    <a href="https://youtu.be/D4Kb5SCiFe4" target="_blank"><strong>Demo Video »</strong></a>
     <br />
     <br />
   </p>
