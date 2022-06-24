@@ -40,6 +40,7 @@ Site Features:
 * Remove and Add teams freely
 * MongoDB connection tracks which teams are searched and when
 * SerpApi GET request provides the most up to date game information
+* Alerts when duplicate team is entered or 10 team limit is reached
 * Fully Responsive design
 
 Team Tracker is a web application inspired by the desire to check in on multiple sports teams with a single click. The user is able to add up to 10 teams across multiple professional sports leagues (NFL, NBA, NHL, MLB, MLS, and English Premier League). Whether the team has recently finished a game, or is soon to play, each team's game information will be dsplayed on a card for the user to view.
