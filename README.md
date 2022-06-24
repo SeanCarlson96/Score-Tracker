@@ -62,12 +62,15 @@ Site Features:
 Working as a Direct Support Professional helping people with developmental disabilities I met many amazing individuals. In the past 2 years I primarily worked with an individual who is a superfan of multiple sports teams. Each day when I would pick him up from his home, we searched the scores of all of his favorite teams on my phone. This person is obsessive over the exact scores and he will often ask me to check the scores multiple times in a day. I found myself repeatedly searching Google for the scores of the same handful of teams and this inspired me to create a project that could simplify this task.
 
 ## Screenshots
-<img src="README.screenshots/InfoSS.png" alt="">
-<img src="README.screenshots/MobileViewSS.png" alt="" height="300">
-<img src="README.screenshots/DropdownSS.png" alt="" height="300">
-<img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.57 AM.png" alt="">
-<img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.41 AM.png" alt="">
-<img src="README.screenshots/Screen Shot 2022-06-23 at 11.58.44 AM.png" alt="">
+
+<div display="flex">
+  <img src="README.screenshots/InfoSS.png" alt="">
+  <img src="README.screenshots/MobileViewSS.png" alt="" height="300">
+  <img src="README.screenshots/DropdownSS.png" alt="" height="300">
+  <img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.57 AM.png" alt="">
+  <img src="README.screenshots/Screen Shot 2022-06-23 at 11.56.41 AM.png" alt="">
+  <img src="README.screenshots/Screen Shot 2022-06-23 at 11.58.44 AM.png" alt="">
+</div>
 
 <!-- CONTACT -->
 ## Contact
